@@ -1,71 +1,50 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstg0123%2Fhit-counter&count_bg=%235AE57E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false" width="20%" align="right"/></a>  
 
 # ✨안녕하세요 박태현의 깃허브 페이지입니다  
-- (현)🍀네이버
-- (전)sw마에스트로 12기  
-- (전)숭실대학교 컴퓨터학부 
+- (전)sw전문인재양성 1기  
+- (전)서경대학교 소프트웨어학부 
 
 ## 📫Contact
 
-- `Email` | sontg123@naver.com
-- `TechBlog` | <a href="https://stg0123.github.io/" target="_blank">https://stg0123.github.io/</a>
-- `About ME` | <a href="https://stg0123.github.io/about/" target="_blank">https://stg0123.github.io/about/</a>
+- `Email` | lcecoffee@naver.com
+- `Email` | ourhopeth1301@gmail.com
+- `Notion` | <a href="https://www.notion.so/79e1a2686f1745839b04bfdf76ce1511?pvs=4" target="_blank">https://www.notion.so/79e1a2686f1745839b04bfdf76ce1511?pvs=4</a>
 
 
 ## 👋연혁<br/>
 |활동|기간|비고|
 |---|---|---|
-|숭실대학교 컴퓨터학부|2014.03~ | 숭실대학교 컴퓨터학부 소속|
-|숭실대학교 컴퓨터학부 학생회장|2015.12~2016.12|학생회장 할동|
-|공군 정비병 |2017.06~2019.06|공군 병장 만기제대|
-|신진과학기술고등학교 교생실습 |2020.04~2020.05|수학과목 교생실습 및 우수교생 연구수업|
-|소프트웨어 마에스트로 12기|2021.04~2021.11| 소프트웨어 마에스트로 12기 활동|
-|네이버 | 2021.12~ |네이버 신입공채 입사|
+|서경대학교 소프트웨어학부|2017.03~ | 숭실대학교 컴퓨터학부 소속|
+|육군 통신병 |2018.03~2019.12|육군 병장 만기제대|
+|서경대학교 코딩 동아리 |2020.04~2020.11|학교 동아리 활동|
+|S/W 전문인재양성|2023.08~2023.12| S/W 전문인재양성 백엔드 1기 활동|
+|취준 | 2024.02~ |백엔드 개발 취업 준비 활동|
 
 ## ⚙프로젝트 경험
 
-- `말선생` | 소마 사용자 음성 분석을 통한 맞춤형 발표 코칭 서비스 (https://github.com/stg0123/SOMA_MainServer)
+- `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스 (https://github.com/ming9ne/678)
 <br>
 
-- `버스왔어요` | 시각장애인을 위한 버스도착알림장치 프로젝트 (https://github.com/stg0123/bus_helper)
+- `따릉이로 문화생활` | 서울시 문화행사가 예정되어있는 곳의 인구 밀집, 혼잡도와 해당 지역의 교통혼잡도 및 따릉이 정보 제공 서비스 (https://github.com/ming9ne/MSA_CultureWithSBike)
 <br>
 
-- `국회.gg` | 소마 해커톤 국회 의안 공공데이터를 이용한 최신법률 토론 서비스 (https://github.com/stg0123/assembly_project)
+- `음악 추천 사이트` | 이미지 학습을 통한 음악 추천 프로그램 (https://github.com/ming9ne/Music-recommendation_Image-crawling)
 <br>
 
-- `멘토링.gg` | 소마 카카오워크 멘토링 알림 서비스 챗봇 개발 프로젝트 (https://github.com/stg0123/kakao_chatbot)
-<br>
-
-- `서울부산` | 쿠팡 댓글 데이터 감성분석 프로젝트 (flask, 크롤링 활용) (쿠팡 top10 댓글 분석)
-<br>
-
-- `Maze Runner` | 아두이노를 활용한 미로찾기 로봇 제작 (교내 창의적공학설계 은상 수상)
 
 ## 🎉수상경력
-- 2021 TOPCIT 16회 정기평가 정보통신기획평가원 참모총장상
-- 2020 TOPCIT 특별평가 총장명의 우수상(3등)
-- 2021 TOPCIT 15회 정기평가 총장명의 장려상
-- 2014 교내 창의적공학설계대회 은상(미로찾기로봇)
-- EEECS 논문 등록 (PaperID : EEECS670)
+- 2023 SW전문인재양성사업 프로젝트개발 경진대회 대상 수상
+- 2023 헥토그룹 서경SW아카데미 프로젝트 발표회 골드상 수상 
 
 ## 🍀자격증
-- 정보처리기사
-- SQLD
-- TOPCIT 3수준
-- 교원자격증 중등학교 정교사(2급) 정보,컴퓨터
-- 교원자격증 증등학교 정교사(2급) 수학
-- MOS EXCEL 2010 EXPERT
-- MOS WORD 2010 EXPERT
-- Adobe POTOSHOP CS6
-- 한국사능력검정 1급
+- 정보처리기사 필기
+- TOEIC Speaking IM3
 
 
 ## 📫기술스택
-- `백엔드` | kotlin(spring), java(spring), python(Django, flask), Node.js(express), scala, Redis, MySQL, PostgreSQL, mongodb
-- `DevOps` | AWS(VPC, EC2, RDS, S3...), docker, kubernetes, Nginx, Linux
-- `프론트엔드` | HTML, CSS, JS, Android 
-- `협업,의사소통` | Git, JIRA, Notion, Trello, Excel, PowerPoint
-- `알고리즘` | C, C++
+- `백엔드` | java(spring), SpringBoot, Spring Security, JavaScript, Redis, MySQL, mongodb
+- `DevOps` | AWS, docker
+- `프론트엔드` | HTML, CSS, JS
+- `협업,의사소통` | Git, Notion
 <br>
 
-✨더 자세한 내용들은 <a href="https://stg0123.github.io/about/" target="_blank">blog About ME</a>에서 확인하세요👋
