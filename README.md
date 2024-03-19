@@ -22,13 +22,16 @@
 
 ## ⚙프로젝트 경험
 
-- `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스 (https://github.com/ming9ne/678)
+- `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스
+- (https://github.com/ming9ne/678)
 <br>
 
-- `따릉이로 문화생활` | 서울시 문화행사가 예정되어있는 곳의 인구 밀집, 혼잡도와 해당 지역의 교통혼잡도 및 따릉이 정보 제공 서비스 (https://github.com/ming9ne/MSA_CultureWithSBike)
+- `따릉이로 문화생활` | 서울시 문화행사가 예정되어있는 곳의 인구 밀집, 혼잡도와 해당 지역의 교통혼잡도 및 따릉이 정보 제공 서비스
+- (https://github.com/ming9ne/MSA_CultureWithSBike)
 <br>
 
-- `음악 추천 사이트` | 이미지 학습을 통한 음악 추천 프로그램 (https://github.com/ming9ne/Music-recommendation_Image-crawling)
+- `음악 추천 사이트` | 이미지 학습을 통한 음악 추천 프로그램
+- (https://github.com/ming9ne/Music-recommendation_Image-crawling)
 <br>
 
 
