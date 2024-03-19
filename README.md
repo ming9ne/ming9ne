@@ -8,7 +8,7 @@
 
 - `Email` | lcecoffee@naver.com
 - `Email` | ourhopeth1301@gmail.com
-- `Notion` | <a href="https://www.notion.so/79e1a2686f1745839b04bfdf76ce1511?pvs=4" target="_blank">https://www.notion.so/79e1a2686f1745839b04bfdf76ce1511?pvs=4</a>
+- `Notion` | <a href="https://www.notion.so/2d9050494aed413e9e6731cb49b4e179?pvs=4" target="_blank">https://www.notion.so/2d9050494aed413e9e6731cb49b4e179?pvs=4</a>
 
 
 ## 👋연혁<br/>
