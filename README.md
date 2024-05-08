@@ -52,7 +52,7 @@
 
 
 ## 📫기술스택
-- `백엔드` | Java(spring), SpringBoot, Spring Security, JavaScript, Redis, MySQL, JPA
+- `백엔드` | Java(spring), SpringBoot, JavaScript, Redis, MySQL, JPA
 - `DevOps` | AWS, docker
 - `프론트엔드` | HTML, CSS, JS
 - `협업,의사소통` | Git, Notion
