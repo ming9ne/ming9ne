@@ -25,7 +25,7 @@
 
 - `Gpt 채팅 앱` | Openai를 통한 GPT-4 모델을 동시 사용 및 MessageQueue를 통한 비동기 통신, 순서 처리
 - `GitHub` | (https://github.com/ming9ne/GptChat_App)
-- `Notion` | https://alive-antler-02c.notion.site/678-a00e001a30254db1b99d082ae94a67dc?pvs=4
+- `Notion` | https://www.notion.so/GptChat-App-4e499b914ac24d10bac179f3b9a3533b
 <br>
 
 - `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스
