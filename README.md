@@ -18,10 +18,15 @@
 |육군 통신병 |2018.03~2019.12|육군 병장 만기전역|
 |서경대학교 코딩 동아리 |2020.03~2022.12|CS 공부|
 |S/W 전문인재양성|2023.08~2023.12| S/W 전문인재양성 백엔드 1기 활동|
-|CS 스터디 | 2024.02~ |백엔드 개발 취업 준비 활동|
-|회사 협업 프로젝트 | 2024.04.02~ |(주)이센티아 회사 협업 프로젝트 진행|
+|개발 스터디 | 2024.02~ |백엔드 개발 취업 준비 활동|
+|회사 협업 프로젝트 | 2024.04~ |(주)이센티아 회사 협업 프로젝트 진행|
 
 ## ⚙프로젝트 경험
+
+- `Gpt 채팅 앱` | Openai를 통한 GPT-4 모델을 동시 사용 및 MessageQueue를 통한 비동기 통신, 순서 처리
+- `GitHub` | (https://github.com/ming9ne/GptChat_App)
+- `Notion` | https://alive-antler-02c.notion.site/678-a00e001a30254db1b99d082ae94a67dc?pvs=4
+<br>
 
 - `678산책 메이트` | 실시간 미세먼지 정보, 공원 제공 및 사용자 매칭 서비스
 - `GitHub` | (https://github.com/ming9ne/678)
@@ -48,7 +53,7 @@
 
 
 ## 📫기술스택
-- `백엔드` | java(spring), SpringBoot, Spring Security, JavaScript, Redis, MySQL, mongodb
+- `백엔드` | Java(spring), SpringBoot, Spring Security, JavaScript, Redis, MySQL, JPA
 - `DevOps` | AWS, docker
 - `프론트엔드` | HTML, CSS, JS
 - `협업,의사소통` | Git, Notion
